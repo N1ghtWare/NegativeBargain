@@ -1,0 +1,19 @@
+{
+    "priority": 2137,
+    "id": "NegativeBargain",
+    "name": "Negative Bargain",
+    "display_name": "Negative Bargain",
+    "badge_colour": "FFFFFF",
+    "badge_text_colour": "242424",
+    "author": [
+        "NightWare"
+    ],
+    "description": "Adds a Voucher that makes Negative Jokers 3X more common.",
+    "prefix": "NegativeBargain",
+    "main_file": "NegativeBargain.lua",
+    "version": "1.0",
+    "dependencies": [
+        "Steamodded (>=1.*)",
+        "Lovely (>=0.6)"
+    ]
+}
